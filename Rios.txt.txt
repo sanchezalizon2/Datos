@@ -1,9 +1,9 @@
-Santiago yo 24
-Lizeth Hermana 26 
-Angela Madre 59
-Luis  Padre 69
-Nasly Esposa 19
-Juliana Sobrina 8
-Susana Sobrina 3
-Sebastian Cuñado 26
-Tonny Mascota 6
+Santiago yo 24 25/04
+Lizeth Hermana 26 11/07
+Angela Madre 59 14/03
+Luis  Padre 69 19/05
+Nasly Esposa 19 07/07
+Juliana Sobrina 8 17/10
+Susana Sobrina 3 12/05
+Sebastian Cuñado 26 17/07
+Tonny Mascota 6 26/05
